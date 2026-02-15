@@ -1,6 +1,6 @@
 cmdauto
 CMD Autostart Installer/Uninstaller
-Developer: mkgirl
+Developer: ExEintel 
 Version: 1.0
 
 About the Project
@@ -125,7 +125,7 @@ Press any key to continue...
 Uninstaller Screen
 ========================================
     cmdauto - CMD Autostart Uninstaller
-     Developer: mkgirl
+     Developer: ExEintel 
 ========================================
 
 Looking for CMD shortcut in startup folder...
@@ -260,7 +260,7 @@ License
 Free for personal and educational use. Use at your own risk.
 
 Author
-Developer: mkgirl
+Developer: ExEintel 
 Project: cmdauto - CMD Autostart Manager
 Last Updated: February 2026
 
